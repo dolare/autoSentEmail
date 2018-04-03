@@ -64,7 +64,7 @@ var stransporter = nodemailer.createTransport({
     port: 465, // port
     auth: {
         user: 'dolarebrave@gmail.com',
-        pass: 'Lr!129114'
+        pass: '*****'
     }
 });
 
